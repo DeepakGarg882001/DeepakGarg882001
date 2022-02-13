@@ -1,42 +1,38 @@
-<!-- ### Hi there 👋
+# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35" height="35" > Hi there ✨   I'm Deepak Garg ✨
 
 
-**DeepakGarg882001/DeepakGarg882001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun 
-
-# Deepak Garg      
->     
->  <b>  ✉   Garg882001@gmail.com  |  📞  +91 8901573639  </b>
+<a href=""><img src="" width="50" height="50" align="left"></a>   <a href=""><img src="" width="50" height="50" align="left"></a>  <a href=""><img src="" width="50" height="50" align="left"></a>  
+<br>                    
 
 
-## SKILLS : 
-  - Front-End
-     - HTML
-     - CSS
-     - JavaScript
-     - React JS
-     - Next Js
-     - Redux
 
-  - Back-End
-     - Node JS
-     - Express JS
-     - Mongo DB
-   
-  - Cross Platform
-     - React Native
-     
-  - ON-Going
-     - React Native 
-     - Next Js
- -->
+##### Hi, I'm a CSE 3<sup>rd</sup> year student pursuing Bachelor of Technology from Centeral University of Haryana ,Mahendergarh ( India ). I'm a 
+
+
+
+
+- 🔭 I’m currently working on to <b> Grow My Skills More & more...</b>
+- 🌱 I’m currently learning  the <b>Technology for Cross Plateform </b> i.e React Native...
+- 👯 I’m looking to collaborate on open source projects... 
+
+
+
+
+[![DeepakGarg's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeepakGarg882001&show_icons=true&theme=highcontrast&layout=compact)](https://github.com/DeepakGarg882001/github-readme-stats)
+
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakGarg882001&langs_count=15&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/DeepakGarg882001/github-readme-stats)
+
+
+
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact&theme=highcontrast&show_icons=true)](https://github.com/DeepakGarg882001/github-readme-stats)
+
+
+
+
