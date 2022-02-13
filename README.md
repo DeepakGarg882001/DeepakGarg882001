@@ -2,12 +2,14 @@
 
 
 
-<a href="https://www.linkedin.com/in/deepak-garg-526a90203/"><img src="./assets/linkedin.png" width="50" height="50" align="left"></a>   <a href=""><img src="./assets/logo-gmail-9951.png" width="50" height="50" align="left"></a>  <a href=""><img src="./assets/logo-instagram-png-2431.png" width="50" height="50" align="left"></a>  
+<a href="https://www.linkedin.com/in/deepak-garg-526a90203/"><img src="./assets/linkedin.png" width="50" height="50" align="left"></a>   <a href="garg882001@gmail.com"><img src="./assets/logo-gmail-9951.png" width="50" height="50" align="left"></a>  <a href="https://www.instagram.com/deepakgarg686/"><img src="./assets/logo-instagram-png-2431.png" width="50" height="50" align="left"></a>  
 <br>                    
 
 
 
-##### Hi, I'm a CSE 3<sup>rd</sup> year student pursuing Bachelor of Technology from Centeral University of Haryana ,Mahendergarh ( India ). I'm a 
+##### Hi, I'm a CSE 3<sup>rd</sup> year student pursuing Bachelor of Technology from Centeral University of Haryana ,Mahendergarh ( India ).
+
+#### I love to explore more with different view and Enjoy this Learning time in every Technology . This Positive Learning passion builds My Strength which helps me to survive in most hardest of Times and in continuing my Learning !   
 
 
 
