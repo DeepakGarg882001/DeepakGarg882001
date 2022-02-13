@@ -2,7 +2,7 @@
 
 
 
-<a href=""><img src="" width="50" height="50" align="left"></a>   <a href=""><img src="" width="50" height="50" align="left"></a>  <a href=""><img src="" width="50" height="50" align="left"></a>  
+<a href="https://www.linkedin.com/in/deepak-garg-526a90203/"><img src="./assets/linkedin.png" width="50" height="50" align="left"></a>   <a href=""><img src="./assets/logo-gmail-9951.png" width="50" height="50" align="left"></a>  <a href=""><img src="./assets/logo-instagram-png-2431.png" width="50" height="50" align="left"></a>  
 <br>                    
 
 
