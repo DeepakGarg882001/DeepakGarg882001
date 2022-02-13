@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **DeepakGarg882001/DeepakGarg882001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -12,5 +12,30 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun 
+
+# Deepak Garg      
+>     
+>  <b>  ✉   Garg882001@gmail.com  |  📞  +91 8901573639  </b>
+
+
+## SKILLS : 
+  - Front-End
+     - HTML
+     - CSS
+     - JavaScript
+     - React JS
+     - Next Js
+     - Redux
+
+  - Back-End
+     - Node JS
+     - Express JS
+     - Mongo DB
+   
+  - Cross Platform
+     - React Native
+     
+  - ON-Going
+     - React Native 
+     - Next Js
